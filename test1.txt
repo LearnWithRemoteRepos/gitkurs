@@ -1,1 +1,4 @@
 Diese Datei wurde gerade angelegt.
+
+Diese Zeile wurde durch das Feature-A hinzugefügt.
+Der EntwicklerA hat auch diese Zeile noch hinzugefügt.
